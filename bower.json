@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "angular": ">= 1.2.0",
-    "bootstrap": ">= 3.0.0"
+    "bootstrap-sass": ">= 3.3.4"
   },
   "devDependencies": {
     "angular-scenario": ">= 1.2.0"
